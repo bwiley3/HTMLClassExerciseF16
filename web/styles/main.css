@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    font-size: 100%;
+        first-letter{
+        font-size:150%;
+    }
+}
+h2{
+    font-size: 85%;
+}
+h3{
+    font-size:90%;
+}
+li{
+    color:orange;
+    font-weight:bold;
+}
+li:hover{
+    color:green;
+}
+ul{
+    padding: 10px;
+}
+footer{
+    font-size:50%;
+    text-align: center;
+}
