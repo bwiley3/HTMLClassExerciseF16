@@ -2,9 +2,10 @@ body{
     font-family: sans-serif;
     width: 800px;
     background-color: white;
+    display: block;
+    vertical-align: middle;
     border-color: black;
     box-shadow: 10px 10px 10px #000;
-    margin: 0 auto;
     background-image: url(bats.gif);
 }
 header{
@@ -47,4 +48,5 @@ footer{
     text-align: center;
     border-bottom: black;
     background:linear-gradient(black,orange 75%, white);
+    height: 100px;
 }
