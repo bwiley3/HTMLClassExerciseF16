@@ -49,10 +49,10 @@ ul{
 footer{
     font-size:75%;
     text-align: center;
-    p{
-        text-align: center;
+    P{
+        vertical-align: central
     }
     border-bottom: black;
-    background:linear-gradient(black,orange 75%, white);
+    background:linear-gradient(45deg, black,orange 75%, white);
     height: 75px;
 }
