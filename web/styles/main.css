@@ -14,18 +14,24 @@ h1{
 }
 h2{
     font-size: 120%;
-    text-indent: 50px;
+    text-indent: 100px;
 }
 h3{
     font-size:100%;
+    h3:first-letter{
+        font-size:200%;
+    }
+    
 }
-ul:hover{
+a{
+    color:orange;
+    padding: 15px
+}
+a:hover{
     color:green;
 }
 ul{
-    padding: 50px;
-    color: orange;
-    font-weight: bold;
+  color:black;
         
     }
 footer{
