@@ -30,6 +30,7 @@ a{
 }
 a:hover{
     color:green;
+    padding: 0 0 0 20px;
 }
 ul{
   color:black;
