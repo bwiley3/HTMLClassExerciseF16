@@ -29,7 +29,7 @@ a{
     color:orange;
 }
 a + a{
-    margin: 15px;
+    margin-top: 15px;
 }
 a:hover{
     color:green;
