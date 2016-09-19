@@ -1,14 +1,10 @@
-html{
-     width: 800px;
-    background-color: white;
-    display: table;
-    align-content: center;
-    border-color: black;
-    box-shadow: 10px 10px 10px #000;
-    background-image: url(bats.gif);
-}
 body{
     font-family: sans-serif;
+    width: 800px;
+    border: 10px #000;
+    margin: auto;
+    align-content: center;
+    box-shadow: 10px black;
    
 }
 header{
