@@ -28,14 +28,12 @@ h4{
 a{
     color:orange;
 }
-a + a{
-    margin-top: 15px;
-}
 a:hover{
     color:green;
 }
 ul{
   color:black;
+  padding: 0 0 0 20px;
         
     }
 footer{
