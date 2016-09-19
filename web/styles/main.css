@@ -17,11 +17,14 @@ h2{
     text-indent: 100px;
 }
 h3{
-    font-size:100%;
-    h3:first-letter{
+    font-size:115%;
+    h3::first-letter{
         font-size:200%;
     }
     
+}
+h4{
+    font-size: 100%
 }
 a{
     color:orange;
