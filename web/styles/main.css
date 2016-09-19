@@ -2,8 +2,8 @@ body{
     font-family: sans-serif;
     width: 800px;
     background-color: white;
-    display: block;
-    vertical-align: middle;
+    display: table;
+    align-content: center;
     border-color: black;
     box-shadow: 10px 10px 10px #000;
     background-image: url(bats.gif);
