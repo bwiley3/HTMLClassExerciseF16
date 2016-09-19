@@ -27,6 +27,8 @@ h4{
 }
 a{
     color:orange;
+}
+a + a{
     margin: 15px;
 }
 a:hover{
