@@ -49,7 +49,10 @@ ul{
 footer{
     font-size:75%;
     text-align: center;
+    p{
+        text-align: center;
+    }
     border-bottom: black;
     background:linear-gradient(black,orange 75%, white);
-    height: 100px;
+    height: 75px;
 }
