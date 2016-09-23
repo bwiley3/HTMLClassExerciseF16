@@ -5,6 +5,7 @@ body{
     margin: 0 auto;
     align-content: center;
     box-shadow: 10px black;
+    background-image: url(bats.gif);
    
 }
 header{
@@ -34,6 +35,7 @@ h4{
 }
 a{
     color:orange;
+    padding-bottom:5px;
 }
 a:hover{
     color:green;
