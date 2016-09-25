@@ -13,9 +13,8 @@ header{
     border-bottom: thick solid black;
     height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
-   
 }
-header img{
+img{
    float: left;
 }
 h1{
@@ -55,11 +54,8 @@ ul{
     }
  li a{
       display:block;
-      width: 60px;
-    }
- #navbar{
-        float:left;
-        width:160px;
+      width: 160px;
+      float:left;
     }
 footer{
     font-size:75%;
