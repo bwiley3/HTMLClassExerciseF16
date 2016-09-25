@@ -1,20 +1,26 @@
+html{
+    background: url("images/bats.gif");
+    background-position: bottom;
+}
 body{
     font-family: sans-serif;
     width: 800px;
-    border: 10px #000;
+    background-color: #fff;
+    border-color: #000;
+    text-align: center;
+    border: 5px black;
     margin: 0 auto;
-    align-content: center;
-    box-shadow: 10px black;
+    box-shadow: 3px 3px 3px 3px;
     
    
 }
 header{
     border-top: black;
+    height: 75 px;
     background:linear-gradient(45deg,white,orange 75%,black);
-}
 img{
    float: left;
-   background-image: url(images/bats.gif);
+}
 }
 h1{
     font-size: 150%;
