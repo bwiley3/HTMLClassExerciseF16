@@ -1,8 +1,4 @@
-html{
-    background: url("images/bats.gif");
-    background-position: center;
-    background-size: 1400px 1400px;
-}
+
 body{
     font-family: sans-serif;
     width: 800px;
@@ -12,7 +8,9 @@ body{
     margin: 0 auto;
     box-shadow: 3px 3px 3px 3px;
     align-content: center;
-    
+    background-image: url("images/bats.gif");
+    background-position: center;
+    background-size: 1400px 1400px;
    
 }
 header{
