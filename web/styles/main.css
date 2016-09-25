@@ -17,9 +17,9 @@ header{
     border-top: black;
     height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
+}
 img{
    float: left;
-}
 }
 h1{
     font-size: 150%;
