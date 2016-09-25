@@ -58,9 +58,10 @@ footer{
     font-size:75%;
     text-align: center;
     P{
-        vertical-align: central
+        align-content: center;
+        
     }
-    border-bottom: black;
+    border:  5px black;
     background:linear-gradient(45deg, black,orange 75%, white);
     height: 75px;
 }
