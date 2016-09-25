@@ -1,6 +1,5 @@
 html{
-    background: url("images/bats.gif");
-    background-position: bottom;
+    background-image: url("images/bats.gif");
 }
 body{
     font-family: sans-serif;
@@ -10,12 +9,13 @@ body{
     border: 5px black;
     margin: 0 auto;
     box-shadow: 3px 3px 3px 3px;
+    align-content: center;
     
    
 }
 header{
     border-top: black;
-    height: 75 px;
+    height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
 img{
    float: left;
