@@ -4,14 +4,14 @@ body{
     width: 800px;
     background-color: #fff;
     border-color: #000;
-    border: 5px black;
+    border: thick solid black;
     margin: 0 auto;
     box-shadow: 10px 10px 5px black;
     align-content: center;
    
 }
 header{
-    border-bottom: 5px black;
+    border-bottom: thick solid black;
     height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
 }
@@ -53,13 +53,9 @@ ul{
 footer{
     font-size:75%;
     text-align: center;
-    P{
-        align-content: center;
-        
-    }
-    border-top: 5px black;
     background:linear-gradient(45deg, black,orange 75%, white);
     height: 75px;
+    border-top: thick solid black;
 }
 html{
     background-image: url("images/bats.gif");
