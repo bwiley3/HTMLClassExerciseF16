@@ -1,5 +1,7 @@
 html{
-    background: url("images/bats.gif") center;
+    background: url("images/bats.gif");
+    background-position: center;
+    background-size: 1400px 1400px;
 }
 body{
     font-family: sans-serif;
