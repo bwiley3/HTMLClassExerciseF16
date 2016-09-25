@@ -3,7 +3,7 @@ body{
     font-family: sans-serif;
     width: 800px;
     background-color: #fff;
-    border-color: black;
+    border: thick solid black;
     margin: 0 auto;
     box-shadow: 10px 10px 5px black;
     align-content: center;
@@ -43,11 +43,15 @@ a:hover{
     color:green;
 }
 ul{
-  color:black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
         
     }
- li{
-      padding-bottom: 5px;  
+ li a{
+      display:block;
+      width: 160px;
     }
 footer{
     font-size:75%;
@@ -59,8 +63,4 @@ footer{
 html{
     background-image: url("images/bats.gif");
     background-color: #fff;
-}
-aside{
-    float: left;
-    width: 160px;
 }
