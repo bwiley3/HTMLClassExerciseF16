@@ -52,6 +52,7 @@ ul{
  li a{
       display:block;
       width: 160px;
+      float:left;
     }
 footer{
     font-size:75%;
