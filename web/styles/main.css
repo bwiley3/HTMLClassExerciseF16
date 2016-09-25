@@ -1,5 +1,5 @@
 html{
-    background-image: url("images/bats.gif");
+    background: url("images/bats.gif") center;
 }
 body{
     font-family: sans-serif;
@@ -17,6 +17,7 @@ header{
     border-top: black;
     height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
+    border: 5px black;
 }
 img{
    float: left;
@@ -49,6 +50,9 @@ a:hover{
 ul{
   color:black;
         
+    }
+ li{
+      padding-bottom: 5px;  
     }
 footer{
     font-size:75%;
