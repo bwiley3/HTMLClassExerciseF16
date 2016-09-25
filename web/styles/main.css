@@ -6,18 +6,14 @@ body{
     border-color: #000;
     border: 5px black;
     margin: 0 auto;
-    box-shadow: 3px 3px 3px 3px;
+    box-shadow: 10px 10px 5px black;
     align-content: center;
-    background-image: url("images/bats.gif");
-    background-position: center;
-    background-size: 1400px 1400px;
    
 }
 header{
-    border-top: black;
+    border-bottom: 5px black;
     height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
-    border: 5px black;
 }
 img{
    float: left;
@@ -61,7 +57,11 @@ footer{
         align-content: center;
         
     }
-    border:  5px black;
+    border-top: 5px black;
     background:linear-gradient(45deg, black,orange 75%, white);
     height: 75px;
+}
+html{
+    background-image: url("images/bats.gif");
+    background-color: #fff;
 }
