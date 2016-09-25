@@ -60,3 +60,7 @@ html{
     background-image: url("images/bats.gif");
     background-color: #fff;
 }
+aside{
+    float: left;
+    width: 160px;
+}
