@@ -11,8 +11,8 @@ body{
 }
 header{
     border-bottom: thick solid black;
-    height: 75px;
     background:linear-gradient(45deg,white,orange 75%,black);
+    height: 75px;
 }
 img{
    float: left;
@@ -56,8 +56,13 @@ footer{
     background:linear-gradient(45deg, black,orange 75%, white);
     height: 75px;
     border-top: thick solid black;
+    clear:both;
 }
 html{
     background-image: url("images/bats.gif");
     background-color: #fff;
+}
+#navbar{
+    float: left;
+    width: 160px;
 }
