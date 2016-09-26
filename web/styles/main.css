@@ -39,8 +39,8 @@ h5{
     font-size: 165%
 }
 a{
-    color:orange;
-    padding-bottom:5px;
+    color:black;
+    padding-top:5px;
 }
 a:hover{
     color:green;
@@ -75,17 +75,17 @@ img{
     border: black;
     background-color: orange;
 }
-hormenu{
+#hormenu{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: black;
 }
-hormenu li{
+#hormenu li{
     float:left;
 }
-hormenu a{
+#hormenu a{
     color: white;
     text-align: center;
     padding: 14px 16px;
