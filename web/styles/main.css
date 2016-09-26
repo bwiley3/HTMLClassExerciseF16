@@ -72,9 +72,10 @@ img{
     display: inline-block;
 }
 #navbar li a{
-    border:5px black;
+    border:thick solid black;
+    background-size: 50px;
     background-color: orange;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     
 }
 hormenu{
