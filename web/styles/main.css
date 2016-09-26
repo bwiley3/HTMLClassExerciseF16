@@ -71,32 +71,34 @@ html{
 img{
     display: inline-block;
 }
-#navbar li{
+#navbar li a{
     border:5px black;
     background-color: orange;
+    padding-bottom: 10px;
+    
 }
-.hormenu{
+hormenu{
    width:100%;
    background-color: black;
 }
-.hormenu ul{
+hormenu ul{
     margin:0;
     padding: 0;
     float:left;
 }
-.hormenu ul li{
+hormenu ul li{
     display:inline;
 }
-.hormenu ul li a{
+hormenu ul li a{
     float:left;
     text-decoration: none;
     color: white;
     padding: 10px 11px;
     background-color: black;
 }
-.hormenu ul li a:active{
+hormenu ul li a:active{
     color: orange;
 }
-.hormenu ul li a:hover{
+hormenu ul li a:hover{
     color: grey;
 }
