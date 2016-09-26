@@ -71,3 +71,31 @@ html{
 img{
     display: inline-block;
 }
+#navbar li{
+    border: black;
+    background-color: orange;
+}
+hormenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+hormenu li{
+    float:left;
+}
+hormenu a{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+}
+#hormenu a:active{
+    color:orange;
+}
+#hormenu a:hover{
+    color: grey;
+}
