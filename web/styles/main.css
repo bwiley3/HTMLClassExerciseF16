@@ -80,6 +80,7 @@ img{
 hormenu{
    width:100%;
    background-color: black;
+   float:top;
 }
 hormenu ul{
     margin:0;
