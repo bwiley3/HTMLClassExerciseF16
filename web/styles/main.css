@@ -83,7 +83,7 @@ img{
     background-color: black;
 }
 #hormenu li{
-    float:left;
+    float:top;
 }
 #hormenu a{
     display: inline-block;
