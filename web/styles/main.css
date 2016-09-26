@@ -65,8 +65,12 @@ html{
 }
 #navbar li{
     float: left;
+    width: 160px;
     
 }
 #navbar li a{
     display:block;
+}
+main img{
+    float:left;
 }
