@@ -72,32 +72,31 @@ img{
     display: inline-block;
 }
 #navbar li{
-    border: black;
+    border:5px black;
     background-color: orange;
 }
-#hormenu{
-    list-style-type: none;
-    margin: 0;
+.hormenu{
+   width:100%;
+   background-color: black;
+}
+.hormenu ul{
+    margin:0;
     padding: 0;
-    overflow: hidden;
+    float:left;
+}
+.hormenu ul li{
+    display:inline;
+}
+.hormenu ul li a{
+    float:left;
+    text-decoration: none;
+    color: white;
+    padding: 10px 11px;
     background-color: black;
 }
-#hormenu li{
-    float:top;
+.hormenu ul li a:active{
+    color: orange;
 }
-#hormenu a{
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    background-color: black
-    
-    
-}
-#hormenu a:active{
-    color:orange;
-}
-#hormenu a:hover{
+.hormenu ul li a:hover{
     color: grey;
 }
