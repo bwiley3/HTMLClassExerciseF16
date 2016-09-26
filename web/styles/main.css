@@ -70,4 +70,5 @@ html{
 }
 img{
     display: inline-block;
+    float:left;
 }
