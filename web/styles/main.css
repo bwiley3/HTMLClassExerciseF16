@@ -68,3 +68,6 @@ html{
     float:left;
     width:120px;
 }
+img{
+    display: inline-block;
+}
