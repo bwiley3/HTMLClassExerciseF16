@@ -45,11 +45,7 @@ a{
 a:hover{
     color:green;
 }
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-    }
+
 footer{
     font-size:75%;
     text-align: center;
@@ -63,6 +59,14 @@ html{
     background-color: #fff;
 }
 #navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#navbar li{
     float: left;
-    width: 160px;
+    
+}
+#navbar li a{
+    display:block;
 }
