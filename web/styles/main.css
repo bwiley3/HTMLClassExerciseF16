@@ -79,13 +79,14 @@ img{
     
 }
 hormenu{
-   width:100%;
+   display: inline;
+    width:100%;
    background-color: black;
-   float:top;
+   float:bottom;
 }
 hormenu ul{
     margin:0;
-    padding: 0;
+    padding: 50px;
     float:left;
 }
 hormenu ul li{
