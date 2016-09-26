@@ -58,12 +58,6 @@ html{
     background-image: url("images/bats.gif");
     background-color: #fff;
 }
-
-
-#mainbar{
-    float:right;
-    width:640px;
-}
 #navbar{
     float:left;
     width:120px;
