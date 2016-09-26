@@ -14,7 +14,7 @@ header{
     background:linear-gradient(45deg,white,orange 75%,black);
     height: 75px;
 }
-img{
+header img{
    float: left;
 }
 h1{
@@ -63,6 +63,6 @@ html{
     width:120px;
 }
 #mainbar{
-    float:left;
+    float:right;
     width:640px;
 }
