@@ -59,18 +59,10 @@ html{
     background-color: #fff;
 }
 #navbar{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-#navbar li{
-    float: left;
-    width: 160px;
-    
-}
-#navbar li a{
-    display:block;
-}
-main img{
     float:left;
+    width:120px;
+}
+#mainbar{
+    float:left;
+    width:640px;
 }
