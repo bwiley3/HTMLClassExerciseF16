@@ -1,0 +1,141 @@
+
+body{
+    font-family: sans-serif;
+    width: 800px;
+    background-color: #fff;
+    border: thick solid black;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px black;
+    align-content: center;
+   
+}
+header{
+    border-bottom: thick solid black;
+    background:linear-gradient(45deg,white,orange 75%,black);
+    height: 100px;
+    align-content: center;
+}
+header img{
+   float: left;
+}
+h1{
+    font-size: 150%;
+    text-indent: 50px;
+    margin-top: 0;
+    
+}
+h2{
+    font-size: 120%;
+    text-indent: 50px;
+}
+h3{
+    font-size:165%;
+    margin:0 auto;
+    }
+    h3::first-letter{
+        font-size: 200%;
+    }
+h4{
+    font-size: 100%;
+}
+h5{
+    font-size: 165%;
+        margin:0 auto;
+}
+a{
+    color:black;
+    padding-top:5px;
+}
+a:hover{
+    color:green;
+}
+
+footer{
+    font-size:75%;
+    text-align: center;
+    background:linear-gradient(45deg, black,orange 75%, white);
+    height: 75px;
+    border-top: thick solid black;
+    clear:both;
+}
+html{
+    background-image: url(../images/bats.gif);
+    background-repeat: repeat;
+}
+
+
+#mainbar{
+    float:right;
+    width:550px;
+}
+#vertbar{
+    float: left;
+    width: 160px;
+}
+#navbar{
+    width:120px;
+}
+img{
+    display: inline-block;
+}
+#navbar ul{
+    list-style:none;
+    margin: 0;
+}
+#navbar li {
+    border:thick solid black;
+    background-color: orange;
+    padding-bottom:0px;
+    margin:10px;
+    list-style: none;
+    width: 150px;
+    height: 25px;
+    
+}
+#navbar li a{
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+#hormenu{
+
+    width:100%;
+   background-color: black;
+   clear:both;
+   height:2em;
+   
+}
+#hormenu ul{
+    margin:0;
+    padding: 0px;
+    list-style: none;
+    float: left;
+    width:100%;
+    
+}
+#hormenu ul li{
+    float:left;
+    list-style: none;
+    width:20%
+}
+#hormenu ul li a{
+    
+    text-decoration: none;
+    color: white;
+    padding: 10px 11px;
+    background-color: black;
+    display: block;
+}
+#hormenu ul li :active{
+    color: orange;
+}
+#hormenu ul li a:hover{
+    color: grey;
+}
+br{
+    clear:both;
+}
+p a{
+    color: orange;
+    font-weight:bold;
+}
